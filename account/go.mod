@@ -1,4 +1,4 @@
-module github.com/microservices/serives/account
+module github.com/microservice/account
 
 go 1.14
 
